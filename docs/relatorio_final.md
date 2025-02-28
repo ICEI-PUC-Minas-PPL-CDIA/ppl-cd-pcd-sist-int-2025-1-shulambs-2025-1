@@ -1,7 +1,7 @@
-# TITULO DO PROJETO
+# Shulambs 2025-1
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Hugo Bastos de Paula, hugo@pucminas.br**
 
 **Nome completo do Aluno 2, email do aluno 2**
 
@@ -11,8 +11,8 @@
 
 Professores:
 
-** Prof. Nome do Prof 1 **
-** Prof. Nome do Prof 2 **
+**Prof. Hugo Bastos de Paula**
+**Prof. Nome do Prof 2**
 
 ---
 
